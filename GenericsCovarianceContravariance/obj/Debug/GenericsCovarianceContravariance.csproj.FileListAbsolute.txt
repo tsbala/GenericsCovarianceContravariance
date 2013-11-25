@@ -1,0 +1,10 @@
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\bin\Debug\GenericsCovarianceContravariance.exe.config
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\bin\Debug\GenericsCovarianceContravariance.exe
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\bin\Debug\GenericsCovarianceContravariance.pdb
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\bin\Debug\EntityFramework.dll
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\bin\Debug\EntityFramework.xml
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\obj\Debug\GenericsCovarianceContravariance.csprojResolveAssemblyReference.cache
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\obj\Debug\GenericsCovarianceContravariance.exe
+C:\Users\Admin\.ssh\GenericsCovarianceContravariance\GenericsCovarianceContravariance\obj\Debug\GenericsCovarianceContravariance.pdb
